@@ -1,4 +1,4 @@
-package maths;
+package com.maths;
 
 public class Multiples {
     public static void main(String[] args) {
