@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
 out
+.DS_Store
+
 
 # Log file
 *.log
@@ -27,3 +29,9 @@ hs_err_pid*
 **/*.iml
 *.iml
 .idea
+/.metadata/
+
+**/.classpath
+**/.project
+**/.settings
+*/.gitignore
